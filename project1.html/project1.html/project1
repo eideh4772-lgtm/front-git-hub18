@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <meta name="امیرحسین" content="width=device-width, initial-scale=1.0">
+    <title>پروژبرنامه نویسی</title>
+</head>
+<body>
+<h1>سایت فروشگاهی لباس</h1>
+<p>خوش آمدید به سایت فروشگاهی لباس ما!</p>
+<strong>ارزانتر از هر فروشگاهی</strong>
+<em>با کیفیت ترین لباس </em>
+<br> <!--اعتماد شما افتخار ماست-->
+
+</body>
+</html>
