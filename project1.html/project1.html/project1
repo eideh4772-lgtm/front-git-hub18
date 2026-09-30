@@ -11,6 +11,54 @@
 <strong>ارزانتر از هر فروشگاهی</strong>
 <em>با کیفیت ترین لباس </em>
 <br> <!--اعتماد شما افتخار ماست-->
+<ul>
+    <li>لباس مردانه</li>
+    <li>لباس زنانه</li>
+    <li>لباس بچه گانه</li>
+</ul>
+<a href="https://www.google.com">برای خرید کلیک کنید</a>
+<img src="https://www.niniposhe.com/uploads/images/1280_1280_img_20230612_182731_248.jpg" alt="لباس">
+<div class="card">
+  <p> <span class="blue">لباس مردانه</span> </p>
+</div>
+<from>
+    <label for>نام:</label>
+    <input type="نام" id="name" name="name" required>
+    <br>
+    <label for="email">ایمیل:</label>
+    <input type="ایمیل" id="email" name="email" required>
+    <br>
+    <label for="message">پیام:</label>
+    <textarea id="message" name="message" required></textarea>
+  <p>جنسیت خود را انتخاب کنید:</p>
 
+<label>
+  <input type="radio" name="gender" value="male">
+  مرد
+</label>
+
+<label>
+  <input type="radio" name="gender" value="female">
+  زن
+</label>
+<p>جنسیت:</p>
+
+<label>
+  <input type="checkbox" name="gender" value="لباس بچه گانه">
+  لباس بچه گانه
+</label>
+
+<label>
+  <input type="checkbox" name="gender" value="لباس زنانه">
+  لباس زنانه
+</label>
+<input type="date" name="birth_date" id="birth_date">
+<video src="https://youtu.be/v9QtM6qnG50" controls></video>
+</label>
+<audio src="https://dl.gisomusic.com/Music/1402/12/14/Amir%20Tataloo%20-%20Man%202.mp3" controls></audio>
+    <br>
+
+    <button type="submit">ارسال</button>
+</from>
 </body>
 </html>
